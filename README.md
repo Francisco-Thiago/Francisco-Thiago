@@ -3,19 +3,19 @@ Prazer em conhecê-lo 👋
 <div align="center">
   <a href="https://github.com/Francisco-Thiago" style="text-decoration: none;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francisco-Thiago&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Thiago&layout=compact&langs_count=7&theme=radical"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Thiago&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Thiago-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<!--   <img align="center" alt="Thiago-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> -->
   <img align="center" alt="Thiago-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Thiago-Sass" height="30" width="40" src="https://user-images.githubusercontent.com/75057408/169482605-98bbb9f1-7c78-4e1d-a186-87aeb79045d6.svg">
   <img align="center" alt="Thiago-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Thiago-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<!--   <img align="center" alt="Thiago-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> -->
   <img align="center" alt="Thiago-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="right" alt="Francisco-Thiago" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/75057408/152655427-45bb7cff-9956-4d9c-8187-f17e02cbfeb5.gif">
-</div>
   
   ##
 
