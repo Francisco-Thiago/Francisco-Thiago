@@ -1,12 +1,12 @@
 ### Pode me chamar de Thiago.
 
-Tenho 17 anos, 
+Tenho 18 anos, 
 
-💼 Estudo programação na escola profissionalizante Luíza de Teodoro. Atualmente estou em meu último ano! 
+💼 Atualmente estou estagiando e cursando a Faculdade!
 
-🖥 Programar é algo que me maravilha desde o começo de meus estudos...
+🖥 Programar é algo que me maravilha desde o começo de meus estudos!
 
-🍎 Amo estudar a ponto de não desperdiçar um pomodoro.
+🍎 Amo estudar de forma consistente em longos períodos de tempo :D
 
 
 <img align=right width="100rem" src="https://user-images.githubusercontent.com/75057408/185676202-5613f7df-d320-4743-98b8-f9c529c165a6.png">
@@ -21,7 +21,6 @@ Tenho 17 anos,
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Thiago-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Thiago-Sass" height="30" width="40" src="https://user-images.githubusercontent.com/75057408/169482605-98bbb9f1-7c78-4e1d-a186-87aeb79045d6.svg">
   <img align="center" alt="Thiago-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Thiago-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
