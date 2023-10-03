@@ -1,11 +1,9 @@
 ### Pode me chamar de Thiago.
 
-Tenho 18 anos, 
+Tenho 19 anos, 
 
-💼 Atualmente estou estagiando e cursando a Faculdade!
-
+💼 Atualmente estou trabalhando e cursando a Faculdade!
 🖥 Programar é algo que me maravilha desde o começo de meus estudos!
-
 🍎 Amo estudar de forma consistente em longos períodos de tempo :D
 
 
